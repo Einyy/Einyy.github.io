@@ -235,7 +235,7 @@ const bigProjects = {
   //subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/fortnite.jpeg"),
+      image: require("./assets/images/fort.jpeg"),
       projectName: "Unreal Engine Fortnite Map",
       //projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
 
