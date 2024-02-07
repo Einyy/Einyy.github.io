@@ -1,0 +1,3 @@
+[submodule "submodules/Einyy.github.io"]
+	path = submodules/Einyy.github.io
+	url = https://github.com/Einyy/Einyy.github.io.git
